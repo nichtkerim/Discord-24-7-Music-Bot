@@ -13,7 +13,7 @@ npm install
 
 ### Configuration
 
-Change the strings in the `config.json` file.
+Change the strings in the `config.json` file:
 - `token`: Your Discord Bot Token
 - `channel`: Your Voice Channel ID
 - `activity`: Your Discord Bot Activity
