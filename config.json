@@ -2,5 +2,6 @@
     "token": "discord_bot_token",
     "activity": "kerim hot boy uwu",
     "channel": "voice_channel_id",
+    "server": "your_server_id",
     "live": "youtube_live_url"
 }
