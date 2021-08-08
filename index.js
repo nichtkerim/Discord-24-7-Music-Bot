@@ -19,7 +19,7 @@ client.on("ready", async () => {
 });
 
 setInterval(async function() {
-  if (!client.voice.connections) {
+  if (!client.voice.connections.get(client.config.server)) {
     const channel = client.channels.cache.get(client.config.channel);
     if (!channel) return;
 
