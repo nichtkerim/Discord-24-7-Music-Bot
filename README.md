@@ -4,5 +4,11 @@
 - [Discord.js](https://discord.js.org/#/)
 - [NodeJS v12-14](https://discord.js.org/#/)
 
+### Setup
+
 ### Installation
-To get all the packages the bot needs, just run the command `$ npm install` and wait a short moment
+```
+git clone
+cd 24-7-Discord-Music-Bot
+npm install
+```
