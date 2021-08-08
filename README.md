@@ -15,6 +15,7 @@ npm install
 
 Change the strings in the `config.json` file:
 - `token`: Your Discord Bot Token
+- `server`: Your Discord Server ID
 - `channel`: Your Voice Channel ID
 - `activity`: Your Discord Bot Activity
 - `live`: YouTube 24/7 Livestream URL
