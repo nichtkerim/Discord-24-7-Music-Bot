@@ -11,8 +11,6 @@ cd Discord-24-7-Music-Bot
 npm install
 ```
 
-I recommend using [repl.it](https://repl.it) to run your bot.
-
 ### Configuration
 
 Change the strings in the `config.json` file.
@@ -20,3 +18,6 @@ Change the strings in the `config.json` file.
 - `channel`: Your Voice Channel ID
 - `activity`: Your Discord Bot Activity
 - `live`: YouTube 24/7 Livestream URL
+
+### Do you need Help?
+Contact me on Discord `Abgefuckt#0001`
