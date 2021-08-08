@@ -1,1 +1,3 @@
-# Discord-24-7-Music-Bot
+# Discord 24/7 Music Bot
+
+### Requirements
