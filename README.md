@@ -20,4 +20,4 @@ Change the strings in the `config.json` file.
 - `live`: YouTube 24/7 Livestream URL
 
 ### Do you need Help?
-Contact me on Discord `Abgefuckt#0001`
+Contact me on Discord `Abgefuckt#0001`.
