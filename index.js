@@ -26,6 +26,6 @@ setInterval(async function() {
     const connection = await channel.join();
     connection.play(ytdl(client.config.live));
   }
-}, 30000);
+}, 10000);
 
 client.login(client.config.token);
