@@ -8,7 +8,7 @@
 
 ### Installation
 ```
-git clone
-cd 24-7-Discord-Music-Bot
+git clone nichtkerim/Discord-24-7-Music-Bot
+cd Discord-24-7-Music-Bot
 npm install
 ```
